@@ -1,0 +1,1 @@
+print('\033[94m' + 'hello world' + '\033[0m')
